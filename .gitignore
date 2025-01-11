@@ -1,4 +1,4 @@
-.csv
-.png
-.parquet
-.JPG
+*.csv
+*.png
+*.parquet
+*.JPG
